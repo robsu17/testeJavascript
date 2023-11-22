@@ -6,7 +6,7 @@ Este código em javascript é uma função que ao receber como parâmetro um nú
 de todos os números que são divisíveis por 3 e 5.
 
 Exemplo:
-
+```javascript
 function somatorio(num) {
   soma = 0
     for (let i = 1; i < numero; i++) {
@@ -16,7 +16,7 @@ function somatorio(num) {
     }
     return soma
 }
-
+```
 ao receber 10 como parâmetro essa função irá retornar 23 pois é a soma de 3, 5, 6 e
 9 que são menores que 10.
 
