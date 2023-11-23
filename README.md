@@ -3,7 +3,7 @@ Teste de backend iniciante
 
 ## Sobre o programa:
 Este código em javascript é uma função que ao receber como parâmetro um número inteiro positivo, retorna o somatórios
-de todos os números que são divisíveis por 3 e 5.
+de todos os números que são divisíveis por 3 ou 5.
 
 Exemplo:
 ```javascript
